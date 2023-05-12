@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DkxBGFnVk+cKBxlWCrji5mU5vi4IZxEExbeVonRbP/Ss2/pZE8Zj7A7cF+0V0f3lQWcyEbTzZl7K2kIZPUXocg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Corso10\\Desktop\\sergiomattarella\\Progetto Iper\\Iper.CDCCsvSplitter\\Iper.CDCCsvSplitter\\Iper.CDCCsvSplitter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Corso10\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

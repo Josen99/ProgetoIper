@@ -1,0 +1,17 @@
+C:\Users\Corso10\Desktop\sergiomattarella\Progetto Iper\Iper.CDCCsvSplitter\Iper.CDCCsvSplitter\obj\Debug\net7.0\Iper.CDCCsvSplitter.csproj.AssemblyReference.cache
+C:\Users\Corso10\Desktop\sergiomattarella\Progetto Iper\Iper.CDCCsvSplitter\Iper.CDCCsvSplitter\obj\Debug\net7.0\Iper.CDCCsvSplitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corso10\Desktop\sergiomattarella\Progetto Iper\Iper.CDCCsvSplitter\Iper.CDCCsvSplitter\obj\Debug\net7.0\Iper.CDCCsvSplitter.AssemblyInfoInputs.cache
+C:\Users\Corso10\Desktop\sergiomattarella\Progetto Iper\Iper.CDCCsvSplitter\Iper.CDCCsvSplitter\obj\Debug\net7.0\Iper.CDCCsvSplitter.AssemblyInfo.cs
+C:\Users\Corso10\Desktop\sergiomattarella\Progetto Iper\Iper.CDCCsvSplitter\Iper.CDCCsvSplitter\obj\Debug\net7.0\Iper.CDCCsvSplitter.csproj.CoreCompileInputs.cache
+C:\Users\Corso10\Desktop\sergiomattarella\Progetto Iper\Iper.CDCCsvSplitter\Iper.CDCCsvSplitter\bin\Debug\net7.0\Iper.CDCCsvSplitter.exe
+C:\Users\Corso10\Desktop\sergiomattarella\Progetto Iper\Iper.CDCCsvSplitter\Iper.CDCCsvSplitter\bin\Debug\net7.0\Iper.CDCCsvSplitter.deps.json
+C:\Users\Corso10\Desktop\sergiomattarella\Progetto Iper\Iper.CDCCsvSplitter\Iper.CDCCsvSplitter\bin\Debug\net7.0\Iper.CDCCsvSplitter.runtimeconfig.json
+C:\Users\Corso10\Desktop\sergiomattarella\Progetto Iper\Iper.CDCCsvSplitter\Iper.CDCCsvSplitter\bin\Debug\net7.0\Iper.CDCCsvSplitter.dll
+C:\Users\Corso10\Desktop\sergiomattarella\Progetto Iper\Iper.CDCCsvSplitter\Iper.CDCCsvSplitter\bin\Debug\net7.0\Iper.CDCCsvSplitter.pdb
+C:\Users\Corso10\Desktop\sergiomattarella\Progetto Iper\Iper.CDCCsvSplitter\Iper.CDCCsvSplitter\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\Corso10\Desktop\sergiomattarella\Progetto Iper\Iper.CDCCsvSplitter\Iper.CDCCsvSplitter\obj\Debug\net7.0\Iper.CDCCsvSplitter.csproj.CopyComplete
+C:\Users\Corso10\Desktop\sergiomattarella\Progetto Iper\Iper.CDCCsvSplitter\Iper.CDCCsvSplitter\obj\Debug\net7.0\Iper.CDCCsvSplitter.dll
+C:\Users\Corso10\Desktop\sergiomattarella\Progetto Iper\Iper.CDCCsvSplitter\Iper.CDCCsvSplitter\obj\Debug\net7.0\refint\Iper.CDCCsvSplitter.dll
+C:\Users\Corso10\Desktop\sergiomattarella\Progetto Iper\Iper.CDCCsvSplitter\Iper.CDCCsvSplitter\obj\Debug\net7.0\Iper.CDCCsvSplitter.pdb
+C:\Users\Corso10\Desktop\sergiomattarella\Progetto Iper\Iper.CDCCsvSplitter\Iper.CDCCsvSplitter\obj\Debug\net7.0\Iper.CDCCsvSplitter.genruntimeconfig.cache
+C:\Users\Corso10\Desktop\sergiomattarella\Progetto Iper\Iper.CDCCsvSplitter\Iper.CDCCsvSplitter\obj\Debug\net7.0\ref\Iper.CDCCsvSplitter.dll
